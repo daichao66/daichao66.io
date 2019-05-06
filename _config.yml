@@ -6,19 +6,19 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title:  纯洁的微笑
+title:  虚拟现实
 subtitle: 分享技术，品味人生
-name: 纯洁的微笑 
-email: ityouknow@126.com
-description: 本站是纯洁的微笑的技术分享博客。内容涵盖生活故事、Java后端技术、Spring Boot、Spring Cloud、微服务架构、大数据演进、高可用架构、中间件使用、系统监控等相关的研究与知识分享。
-keywords: ityouknow,纯洁的微笑,Spring,Spring Boot,Spring Cloud,MongoDB,Jvm,Docker,生活故事,架构,大数据,一线,FastDFS,开发者,编程,代码,开源,IT网站,Developer,Programmer,Coder,Geek,IT技术博客,Java,Python,
+name: D.GOD
+email: 1320222147@qq.com
+description: 本站是D.GOD分享博客。内容涵盖生活故事、创新思维，未来科学等相关的研究与知识分享。
+keywords: D.GOD,生活故事,架构,大数据,一线,FastDFS,开发者,编程,代码,开源,IT网站,Developer,Programmer,Coder,Geek,IT技术博客,Java,Python,
 encoding: "utf-8"
 favicon: favicon.ico 
 
-repository: ityouknow/ityouknow.github.io
-github_url: https://github.com/ityouknow
-url: http://www.ityouknow.com
-enforce_ssl: ityouknow.com
+repository: daichao66/daichao66.io
+github_url: https://github.com/daichao66
+url: http://daichao66.io
+enforce_ssl: daichao66.com
 
 ## Gem
 plugins:
